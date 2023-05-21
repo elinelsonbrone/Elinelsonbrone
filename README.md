@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-                                                    Eu sou Elinelson Brone
+Eu sou Elinelson Brone
 
-                                                    Densenvolvedor Front-End Jr
+Densenvolvedor Front-End Jr
 
-                                                    Cursando 2ª ano de ADS.
+Cursando 2ª ano de ADS.
 
-                                                    Meu foco atualmente esta em Fullstack.
+Meu foco atualmente esta em Fullstack.
 
 <div>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elinelsonbrone&theme=nightowl&show_icons=true"/>
-  <img height="180em" widht="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinelsonbrone&layout=compact&theme=nightowl"/>
+  <img height="180em" widht="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinelsonbrone&layout=compact&theme=nightowl"/>
   
   </div>
 
