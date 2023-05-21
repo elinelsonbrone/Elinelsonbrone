@@ -11,11 +11,11 @@ Meu foco atualmente esta em Fullstack.
 <div>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elinelsonbrone&theme=nightowl&show_icons=true"/>
-  <img height="180em" widht="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinelsonbrone&layout=compact&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinelsonbrone&layout=compact&theme=nightowl"/>
   
   </div>
 
-###  Let's get connected:  
+### 😀 Let's get connected:  
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elinelson-brone)
 
