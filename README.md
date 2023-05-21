@@ -11,7 +11,7 @@ Meu foco atualmente esta em Fullstack.
 <div>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elinelsonbrone&theme=nightowl&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinelsonbrone&layout=compact&theme=nightowl"/>
+  <img height="180em" widht="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinelsonbrone&layout=compact&theme=nightowl"/>
   
   </div>
 
