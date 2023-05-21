@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Eu sou Elinelson Brone
+                                                    Eu sou Elinelson Brone
 
-Densenvolvedor Front-End Jr
+                                                    Densenvolvedor Front-End Jr
 
-Cursando 2ª ano de ADS.
+                                                    Cursando 2ª ano de ADS.
 
-Meu foco atualmente esta em Fullstack.
+                                                    Meu foco atualmente esta em Fullstack.
 
 <div>
   
