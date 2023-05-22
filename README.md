@@ -2,8 +2,6 @@
 
 Eu sou Elinelson Brone
 
-Densenvolvedor Front-End Jr(estudando)
-
 Cursando 2ª ano de ADS. 📚
 
 Meu foco atualmente esta em Fullstack.🎯
