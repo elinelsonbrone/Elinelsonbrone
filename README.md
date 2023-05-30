@@ -4,8 +4,6 @@ Eu sou Elinelson Brone
 
 Cursando 2ª ano de ADS. 📚
 
-Meu foco atualmente esta em Fullstack.🎯
-
 <div>
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elinelsonbrone&theme=nightowl&show_icons=true"/>
