@@ -2,7 +2,7 @@
 
 Eu sou Elinelson Brone
 
-Cursando 2ª ano de ADS. 📚
+Cursando 3ª ano de ADS. 📚
 
 <div>
   
